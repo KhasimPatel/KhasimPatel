@@ -27,13 +27,18 @@
 
 ---
 
-# 📊 GitHub Stats:
-![Khasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhasimPatel&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats:
+
+![Khasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhasimPatel&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhasimPatel&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhasimPatel&layout=compact&theme=radical)
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KhasimPatel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=KhasimPatel&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
