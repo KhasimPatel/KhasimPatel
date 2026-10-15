@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="samarthbanner.png" alt="Khasim Patel Banner" width="100%">
+  <img src="KhasimPatelProfile.png" alt="Khasim Patel Banner" width="100%">
 </p>
 
 *— Khasim Patel*
