@@ -200,7 +200,8 @@ signal   →   Role-based access control + server-side price calculation + payme
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshisamarth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/khasimpatel/)
 <!-- CHANGE: Replace the URL below with your actual portfolio link when live -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=flat-square&logo=firefox-browser&logoColor=white)](https://your-portfolio.com) -->
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khasimpatel8767@gmail.com)
